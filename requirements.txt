@@ -1,0 +1,8 @@
+
+
+torch
+transformers
+diffusers
+gradio
+pillow
+
